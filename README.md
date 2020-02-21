@@ -13,9 +13,8 @@ Please contact me directly with any questions or concerns. You can reach me at 5
 
 ## Technologies Used
 _This program utilized:_
-* _REACT_
-* _JAVASCRIPT_
-* _PSQL_
+* _React_
+* _Javascript ES6_
 * _CSS_
 * _HTML_
 _and was built in Visiual Studio Code_
